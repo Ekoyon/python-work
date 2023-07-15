@@ -8,6 +8,7 @@ def days_to_units(x, custom_message):
     print(custom_message)
 
 def lfrrgj():
+    print (f"hello Peace")
 
 days_to_units(70, "yass!")
 days_to_units(110, "great!")
